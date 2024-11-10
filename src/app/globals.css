@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#imgage{
+    border-radius: 80%;
+    border: 5px solid rgb(151, 138, 144);
+}
